@@ -1,6 +1,3 @@
-Aman Kumar
-2020csb1153
-
 Q1:
 
 How to Execute:
